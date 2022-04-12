@@ -1,5 +1,7 @@
 # ODQA MRC - ㅇㄱㄹㅇ
 
+리포트는 [하단](#Report)에 있습니다.
+
 ## ODQA: Open-Domain Question Answering
 
 ODQA는 다양한 종류의 질문에 대해 대답하는 인공지능 연구 분야인 QA(Question Answering)에 더해 주어지는 지문이 따로 존재하지 않고 사전에 구축되어 있는 Knowledge resource에서 질문에 대답할 수 있는 문서를 찾는 과정이 추가된 시스템입니다.
@@ -275,4 +277,28 @@ trainer = QATrainer(
 
 </details>
 
+
+# Report
+
+![](./imgs/report_Page_01.png)
+
+![](./imgs/report_Page_02.png)
+
+![](./imgs/report_Page_03.png)
+
+![](./imgs/report_Page_04.png)
+
+![](./imgs/report_Page_05.png)
+
+![](./imgs/report_Page_06.png)
+
+![](./imgs/report_Page_07.png)
+
+![](./imgs/report_Page_08.png)
+
+![](./imgs/report_Page_09.png)
+
+![](./imgs/report_Page_10.png)
+
+![](./imgs/report_Page_11.png)
 
